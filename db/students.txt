@@ -1,0 +1,4 @@
+		    santiago,fsgarzon0@misena.edu.co,23/dic/1995,adsi
+			ferney,dpaztrana.sd@gmail.com,23/ene/1899,diseño
+			juan,fsg444444n0@misena.edu.co,23/oct/1995,cuero
+			ferney,dpaztrana.sd@gmail.com,23/ene/1899,chasero
